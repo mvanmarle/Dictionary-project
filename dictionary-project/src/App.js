@@ -9,7 +9,7 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <footer className="App-footer">
-          <small>Coded by SheCodes</small>
+          <small>Coded by Maureen van Marle</small>
         </footer>
       </div>
     </div>
