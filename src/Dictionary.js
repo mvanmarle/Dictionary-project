@@ -20,7 +20,7 @@ export default function Dictionary(props) {
   }
 
   function search() {
-    let apiURL = `https://api.dictionaryapi.dev/api/v2/entries/en/${keyword}`;
+    let apiURL = `https://api.dictionaryapi.dev/api/v2/entries/en_US/${keyword}`;
     axios.get(apiURL).then(handleDictionaryResponse);
 
     let pexelsApiKey =
