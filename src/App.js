@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary defaultKeyword="ocean" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Maureen van Marle</small>
+          <small>Coded by Maureen van Marle🌸</small>
         </footer>
       </div>
     </div>
